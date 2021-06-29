@@ -1,0 +1,15 @@
+.logout{
+    position: relative;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 0 14px;
+    border-bottom: 1px solid;
+    transition: all .3s ease-in-out;
+}
+
+.logout:hover, .logout:active{
+    color: blueviolet;
+    border-bottom: 5px solid;
+
+}
